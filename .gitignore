@@ -1,0 +1,24 @@
+# Compiled classes
+*.class
+
+# Logs
+*.log
+classes.log
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.iml
+
+# Temporary
+*.tmp
+*.bak
+*.cache
+
+# OS files
+.DS_Store
+
+# Build output
+bin/
+target/
+out/
